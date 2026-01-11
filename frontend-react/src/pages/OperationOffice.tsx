@@ -149,6 +149,11 @@ const OperationOffice: React.FC = () => {
                     <button type="button" onClick={() => navigate('/')} className="w-full mt-3 text-gray-500 py-2 text-sm hover:text-white transition">
                         Cancel
                     </button>
+                    <div className="mt-4 text-center">
+                        <p className="text-xs text-gray-500 font-mono">
+                            Testing Credentials: <span className="text-blue-400 font-bold">admin123</span>
+                        </p>
+                    </div>
                 </form>
             </div>
         );
