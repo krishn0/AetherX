@@ -1,0 +1,39 @@
+Type,City,Lat,Lng,Capacity,Status,Specialization
+Ambulance,Mumbai (Bombay Hospital),18.9411,72.8275,15,Available,Medical
+Ambulance,Mumbai (Sion Hospital),19.0361,72.8593,20,Available,Medical
+Ambulance,Mumbai (Reliance Hospital),18.9587,72.8199,12,Available,Medical
+Ambulance,Mumbai (Wadia Hospital),19.0047,72.8413,10,Available,Medical
+Ambulance,Delhi (Delhi Heart Hospital),28.6532,77.3086,12,Available,Medical
+Ambulance,Delhi (Holy Family Hospital),28.5650,77.2100,25,Available,Medical
+Ambulance,Delhi (Hindu Rao Hospital),28.6754,77.2123,18,Available,Medical
+Ambulance,Bangalore (Bangalore Hospital),13.0067,77.5617,15,Available,Medical
+Ambulance,Bangalore (Manipal Hospital),12.9587,77.6491,30,Available,Medical
+Ambulance,Bangalore (Victoria Hospital),12.9580,77.5710,25,Available,Medical
+Ambulance,Chennai (Padmini Nursing Home),13.0727,80.2344,8,Available,Medical
+Fire Truck,Hyderabad (Sanathnagar),17.4566,78.4398,5,Available,Fire
+Fire Truck,Hyderabad (Madhapur),17.4493,78.3750,4,Available,Fire
+Fire Truck,Hyderabad (Gachibowli),17.4297,78.3102,6,Available,Fire
+Fire Truck,Hyderabad (Kukatpally),17.4921,78.3918,5,Available,Fire
+Fire Truck,Hyderabad (Hayatnagar),17.3282,78.5911,4,Available,Fire
+Fire Truck,Hyderabad (Jeedimetla),17.5288,78.4392,5,Available,Fire
+Fire Truck,Bengaluru (Rajajinagar),12.9806,77.5615,6,Available,Fire
+Fire Truck,Bengaluru (North),12.9625,77.5634,5,Available,Fire
+Fire Truck,Mumbai (City Center),19.0434,72.8239,8,Available,Fire
+Fire Truck,Delhi (Connaught Place),28.6304,77.2177,10,Available,Fire
+NDRF Team,Assam (Guwahati),26.1158,91.7086,50,Available,Flood Response|Rescue
+NDRF Team,West Bengal (Haringhata),22.9567,88.5654,50,Available,Cyclone|Flood Response
+NDRF Team,Odisha (Mundali),20.4436,85.7483,50,Available,Cyclone|Flood Response
+NDRF Team,Tamil Nadu (Arakkonam),13.0805,79.6706,50,Available,Cyclone|Rescue
+NDRF Team,Maharashtra (Pune),18.7327,73.6826,50,Available,Landslide|Flood Response
+NDRF Team,Gujarat (Vadodara),22.3072,73.1812,50,Available,Chemical|Cyclone
+NDRF Team,Punjab (Bhatinda),30.2109,74.9454,50,Available,Rescue|Medical
+NDRF Team,UP (Ghaziabad),28.6691,77.4537,50,Available,Collapse|Chemical
+NDRF Team,Bihar (Patna),25.5543,84.8696,50,Available,Flood Response
+NDRF Team,Andhra Pradesh (Vijayawada),16.5061,80.6480,50,Available,Cyclone|Flood Response
+Police,Mumbai (Headquarters),18.9400,72.8353,40,Available,Security
+Police,Delhi (Headquarters),28.6139,77.2090,50,Available,Security
+Police,Bangalore (Headquarters),12.9716,77.5946,35,Available,Security
+Police,Chennai (Headquarters),13.0827,80.2707,35,Available,Security
+Helicopter,Mumbai (Juhu),19.0965,72.8288,3,Available,Rescue
+Helicopter,Delhi (Palam),28.5561,76.551,3,Available,Rescue
+Helicopter,Bangalore (HAL),12.9500,77.6681,3,Available,Rescue

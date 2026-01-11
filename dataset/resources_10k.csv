@@ -1,0 +1,1001 @@
+Type,City,Lat,Lng,Capacity,Status,Specialization
+Fire Truck,Gangtok,27.430951,88.54351,15,Available,Rescue|Fire
+Rescue Team,Gulbarga,17.295227,76.896074,7,Available,Mountain
+Supply Truck,Ongole,15.397624,80.097372,87,Available,Water
+Police,Calicut,11.26339,75.845426,14,Available,Security
+Supply Truck,Nellore,14.376801,79.903899,138,Available,Food|Water
+Ambulance,Ranchi,23.359695,85.273548,3,Available,ICU
+Ambulance,Ghaziabad,28.628455,77.516967,6,Available,ICU|Medical
+Ambulance,Mangalore,12.792491,74.883734,12,Available,Medical
+Ambulance,Haripur,31.44004,75.84953,10,Available,Trauma|ICU|Medical
+Police,Ongole,15.486873,79.948405,9,Available,Crowd Control|Security
+Police,Bilaspur,21.974883,82.175205,10,Available,Crowd Control|Patrol
+Ambulance,Bamanpuri,28.817274,78.904182,11,Available,Medical
+Rescue Team,Imphal,24.833817,93.903761,9,Available,Debris|Flood|Mountain
+Ambulance,Meerut,28.897645,77.782356,7,Available,Trauma
+Police,Surat,21.270269,72.804593,4,Available,Security|Crowd Control
+Police,Agartala,23.881923,91.225402,13,Available,Patrol|Crowd Control
+Police,Abohar,30.2697,74.218305,15,Available,Crowd Control
+Ambulance,Imphal,24.684792,93.948131,8,Available,Trauma
+Supply Truck,Hyderabad,17.380441,78.394867,159,Available,Water
+NDRF Team,Tirunelveli,8.791287,77.57872,50,Available,Chemical|Disaster Response|Structure Collapse
+Ambulance,Nasik,19.881066,73.757308,7,Available,Trauma|Medical
+Ambulance,Barddhaman,23.182766,87.782132,7,Available,Medical|ICU|Trauma
+Ambulance,Khammam,17.379778,80.114335,15,Available,ICU|Medical
+Fire Truck,Pathankot,32.284625,75.810291,5,Available,Fire
+Police,Kagaznagar,19.287745,79.5714,10,Available,Patrol|Crowd Control|Security
+Ambulance,Coimbatore,11.079092,76.994173,13,Available,Medical
+Ambulance,Bareilly,28.3399,79.422755,3,Available,ICU|Medical
+Ambulance,Ahmadnagar,19.015789,74.769077,7,Available,Medical
+Police,Shiliguri,26.791551,88.352146,11,Available,Security|Patrol
+Fire Truck,Sonipat,29.112829,77.07081,14,Available,Fire|Rescue
+Ambulance,Raichur,16.176151,77.478082,10,Available,Medical|ICU|Trauma
+Ambulance,Tiruvannamalai,12.177532,78.966884,6,Available,Trauma|Medical
+Fire Truck,Jaipur,26.926228,75.651663,5,Available,Fire|Rescue
+Ambulance,Tuticorin,8.726572,78.194759,7,Available,Trauma|Medical|ICU
+Ambulance,Coimbatore,11.040137,76.966113,4,Available,ICU|Medical
+Ambulance,Muzaffarpur,26.228772,85.319873,13,Available,Trauma|ICU|Medical
+Fire Truck,Jabalpur,23.131847,79.850978,8,Available,Rescue|Fire
+Ambulance,Shillong,25.677528,91.859342,14,Available,ICU|Medical
+Police,Dhanbad,23.736008,86.46759,6,Available,Crowd Control|Security|Patrol
+Fire Truck,Silvassa,20.282506,72.951346,9,Available,Fire
+Ambulance,Patna,25.65162,85.124995,6,Available,Medical
+Fire Truck,New Delhi,28.500661,77.110127,8,Available,Fire
+Supply Truck,Silvassa,20.245707,72.958643,195,Available,Medical Kits|Food
+Police,Hyderabad,17.284983,78.52822,12,Available,Security|Crowd Control|Patrol
+Supply Truck,Bakshpur,25.814032,80.874248,86,Available,Water|Food|Medical Kits
+Ambulance,Bhubaneshwar,20.244698,85.764167,8,Available,Trauma|Medical|ICU
+Police,Kakinada,17.037662,82.249002,10,Available,Crowd Control|Security
+Fire Truck,Nellore,14.487228,79.892287,15,Available,Rescue|Fire
+Ambulance,Daman,20.489068,72.901867,12,Available,Medical
+Police,Kolkata,22.574671,88.436184,3,Available,Crowd Control
+Fire Truck,Gopalpur,26.822714,83.430639,8,Available,Rescue|Fire
+Rescue Team,Coimbatore,11.078078,76.861591,12,Available,Flood
+Fire Truck,Shimla,31.105416,77.141546,13,Available,Fire
+Fire Truck,Madurai,9.864736,78.152242,9,Available,Rescue|Fire
+Police,Bhilwara,25.261757,74.601284,5,Available,Crowd Control|Security
+Police,Nasik,20.073638,73.853895,4,Available,Patrol|Crowd Control
+Police,Pali,25.818479,73.214584,12,Available,Patrol|Security|Crowd Control
+Rescue Team,Jaipur,26.921475,75.637039,8,Available,Flood
+Fire Truck,Budaun,28.060468,79.057217,10,Available,Fire|Rescue
+Ambulance,Adilabad,19.305873,78.368242,9,Available,ICU|Trauma
+Ambulance,Thanjavur,10.868423,79.193866,8,Available,Medical|Trauma
+Police,Bengaluru,12.865072,77.572737,12,Available,Security|Patrol
+Police,Bhuj,23.280152,69.688898,3,Available,Crowd Control|Patrol
+Rescue Team,Mathura,27.466295,77.670464,15,Available,Flood|Mountain
+Police,Chanda,19.901235,79.202774,6,Available,Patrol
+Ambulance,Saidpur,34.382365,74.52148,13,Available,Trauma
+Police,Haripur,31.425794,76.061673,5,Available,Crowd Control
+Ambulance,Mysore,12.3787,76.65057,13,Available,ICU
+Ambulance,Kurnool,15.761853,77.99884,14,Available,Trauma
+Ambulance,Ghaziabad,28.709922,77.509729,11,Available,Medical|ICU|Trauma
+Police,Navsari,20.856856,72.853578,14,Available,Security|Patrol
+Police,Haora,22.491782,88.346868,7,Available,Patrol
+Police,Lucknow,26.955344,80.881008,5,Available,Crowd Control|Security|Patrol
+Fire Truck,Chandigarh,30.818709,76.717776,4,Available,Fire
+Fire Truck,Shahbazpur,27.971646,79.814255,5,Available,Rescue|Fire
+Rescue Team,Vadodara,22.330166,73.234864,12,Available,Mountain|Debris|Flood
+Police,New Delhi,28.475875,77.151598,5,Available,Security|Crowd Control|Patrol
+Ambulance,Hata,27.54183,78.036712,3,Available,Medical
+Ambulance,Chennai,13.041631,80.120461,7,Available,ICU|Trauma|Medical
+Rescue Team,Bidar,17.908666,77.479544,4,Available,Mountain
+Ambulance,Bengaluru,12.851015,77.559055,11,Available,ICU
+Ambulance,Gwalior,26.276726,78.229606,7,Available,ICU
+Ambulance,Barddhaman,23.186353,87.832484,13,Available,Trauma
+Supply Truck,Jhansi,25.440806,78.593062,175,Available,Water|Food
+Fire Truck,Nanded,19.142417,77.279944,8,Available,Rescue
+Ambulance,Bhuj,23.340808,69.775678,13,Available,ICU|Medical
+Supply Truck,Bhilwara,25.236816,74.620794,141,Available,Water|Medical Kits
+Fire Truck,Saidpur,34.402284,74.527163,4,Available,Rescue|Fire
+Police,Alwar,27.567186,76.562657,4,Available,Security|Crowd Control
+Ambulance,Jamshedpur,22.757503,86.137657,8,Available,ICU|Medical
+Fire Truck,Thiruvananthapuram,8.43411,76.842944,10,Available,Rescue
+Ambulance,Akola,20.649644,76.870817,4,Available,Medical|ICU
+Police,Haora,22.565325,88.183349,11,Available,Patrol
+Ambulance,Silvassa,20.272773,72.973527,4,Available,Medical|Trauma|ICU
+Ambulance,Nagercoil,8.105873,77.472647,13,Available,Trauma|Medical|ICU
+Ambulance,Kolar,13.098612,78.111262,11,Available,Trauma|Medical|ICU
+Fire Truck,Abohar,30.163695,74.26999,11,Available,Fire
+Ambulance,Bhopal,23.303808,77.292594,12,Available,Trauma
+Ambulance,Mathura,27.581964,77.787779,11,Available,Medical
+Ambulance,Baramula,34.226365,74.464265,11,Available,Medical|ICU
+Police,Chandigarh,30.802726,76.856448,10,Available,Patrol|Crowd Control|Security
+Rescue Team,Bidar,17.813212,77.44329,15,Available,Flood
+Rescue Team,Raichur,16.286521,77.408495,4,Available,Flood|Debris
+Ambulance,Saharanpur,29.867909,77.540797,10,Available,ICU|Medical|Trauma
+Fire Truck,Chirala,15.811759,80.34547,8,Available,Rescue|Fire
+NDRF Team,Haripur,31.408642,75.993508,50,Available,Chemical|Disaster Response|Structure Collapse
+Ambulance,Bhavnagar,21.791568,72.073343,11,Available,ICU
+Police,Valparai,10.24761,76.903839,8,Available,Patrol|Crowd Control|Security
+Ambulance,Chanda,20.023876,79.292535,3,Available,Medical
+Ambulance,Nandyal,15.442966,78.373474,4,Available,Trauma|Medical|ICU
+Ambulance,Hyderabad,17.404377,78.358007,14,Available,ICU
+Fire Truck,Tirunelveli,8.777398,77.626919,10,Available,Fire|Rescue
+Police,Gangtok,27.271642,88.575245,8,Available,Crowd Control|Security|Patrol
+Police,Bengaluru,12.977278,77.713,8,Available,Security|Crowd Control|Patrol
+Ambulance,Cuddalore,11.705328,79.647943,9,Available,Medical|Trauma|ICU
+Police,Alipurduar,26.453666,89.5454,8,Available,Security
+Police,Ludhiana,30.873913,75.813232,14,Available,Security|Patrol
+Police,Shimoga,13.992436,75.50527,3,Available,Patrol
+Police,Meerut,28.967818,77.736895,9,Available,Security|Patrol
+Ambulance,Jodhpur,26.282072,72.882157,15,Available,Medical
+Police,Kavaratti,10.499765,72.629677,6,Available,Security|Crowd Control
+Ambulance,Kalyan,19.191376,73.127458,7,Available,Medical|ICU|Trauma
+Fire Truck,Nasik,20.038402,73.735524,6,Available,Fire|Rescue
+Rescue Team,Mysore,12.238746,76.731337,12,Available,Flood|Mountain|Debris
+Supply Truck,Gopalpur,26.627459,83.305242,59,Available,Medical Kits
+Ambulance,Malegaon Camp,20.442173,74.514462,4,Available,Medical|Trauma|ICU
+Ambulance,Ghaziabad,28.77079,77.375147,8,Available,Trauma
+Police,Cuddalore,11.666879,79.812569,6,Available,Crowd Control|Patrol
+Fire Truck,Chikka Mandya,12.581053,76.982889,3,Available,Rescue|Fire
+Police,Shimoga,14.023147,75.543251,5,Available,Security|Crowd Control
+Police,Hisar,29.108195,75.700287,9,Available,Crowd Control|Patrol|Security
+Police,Kochi,9.904502,76.377166,11,Available,Security|Patrol|Crowd Control
+Police,Vellore,12.90653,79.228522,12,Available,Security|Patrol
+Police,Saidpur,34.34967,74.612546,15,Available,Security|Patrol|Crowd Control
+Fire Truck,Agra,27.177952,77.940396,5,Available,Rescue
+Ambulance,Jamshedpur,22.843785,86.216011,12,Available,ICU
+Fire Truck,Chennai,13.154065,80.303603,5,Available,Rescue|Fire
+Ambulance,New Delhi,28.522478,77.176978,3,Available,Trauma
+Ambulance,Chirala,15.941718,80.287567,7,Available,Medical|ICU
+Supply Truck,Purnea,25.693634,87.493091,133,Available,Medical Kits
+Ambulance,Khanapur,21.221879,76.072539,8,Available,Medical
+Ambulance,Nandyal,15.589615,78.410014,14,Available,ICU
+Ambulance,Ahmadnagar,19.004071,74.675077,14,Available,Medical|ICU|Trauma
+Ambulance,Saidapur,27.590894,80.861172,3,Available,ICU|Medical
+Ambulance,Bharatpur,27.108738,77.553472,9,Available,Trauma|Medical|ICU
+Ambulance,Fyzabad,26.824968,82.227966,15,Available,Trauma|Medical
+Police,Bijapur,16.865972,75.791383,4,Available,Security
+Rescue Team,Hata,27.568486,77.929004,6,Available,Flood
+Fire Truck,Patna,25.566271,85.17111,15,Available,Fire
+Supply Truck,Kollam,8.849763,76.695836,54,Available,Food|Medical Kits
+Ambulance,Silchar,24.752656,92.784961,15,Available,ICU|Trauma
+Police,Gulbarga,17.347032,76.80071,9,Available,Crowd Control|Security
+Police,Vizianagaram,18.097291,83.45569,11,Available,Security|Patrol|Crowd Control
+Fire Truck,Amritsar,31.712183,74.963362,9,Available,Rescue
+Fire Truck,Gopalpur,26.752383,83.343809,6,Available,Rescue
+Ambulance,Tiruchchirappalli,10.815825,78.830706,3,Available,Trauma|ICU
+Ambulance,Vellore,12.871544,79.188947,9,Available,Trauma
+Police,Krishnapuram,12.834688,79.774282,3,Available,Crowd Control|Security
+Police,Parbhani,19.376031,76.735241,6,Available,Security
+Helicopter,Bareilly,28.401487,79.540814,5,Available,Rescue|Survey
+Ambulance,Nandyal,15.492423,78.444279,12,Available,Trauma|Medical|ICU
+Fire Truck,Kolhapur,16.612816,74.299533,11,Available,Rescue
+Fire Truck,Jorhat,26.715474,94.090467,10,Available,Fire|Rescue
+Police,Jabalpur,23.065383,79.940611,4,Available,Security|Crowd Control|Patrol
+Supply Truck,Karnal,29.567969,76.990493,96,Available,Medical Kits
+Fire Truck,Belgaum,15.827384,74.518072,14,Available,Fire|Rescue
+Ambulance,Shimoga,13.902639,75.481137,5,Available,Trauma|ICU
+Supply Truck,Amritsar,31.588029,74.786129,154,Available,Medical Kits|Food|Water
+Ambulance,Nandyal,15.499614,78.557138,4,Available,Medical
+Helicopter,Ahmadnagar,19.218643,74.76154,5,Available,Survey|Airlift
+Police,Imphal,24.867071,94.00625,9,Available,Crowd Control
+Ambulance,Ujjain,23.220263,75.664089,9,Available,ICU
+Ambulance,Guntur,16.237466,80.579812,10,Available,ICU|Medical|Trauma
+Police,Fyzabad,26.694409,82.160377,6,Available,Patrol|Crowd Control|Security
+Rescue Team,New Delhi,28.569111,77.164992,11,Available,Flood
+Fire Truck,Alwar,27.644809,76.57526,3,Available,Rescue
+Fire Truck,Pilibhit,28.692,79.922061,13,Available,Fire|Rescue
+Ambulance,Sikar,27.56774,75.148452,7,Available,Trauma|ICU
+Ambulance,Nizamabad,18.714675,78.036993,5,Available,Trauma|ICU
+Fire Truck,Hindupur,13.785733,77.60626,14,Available,Fire
+Police,Ambala,30.344963,76.71057,8,Available,Crowd Control|Security
+Ambulance,Panipat,29.392562,77.061677,3,Available,ICU|Trauma
+Police,Malegaon Camp,20.494857,74.608382,11,Available,Patrol|Crowd Control
+Police,Jorhat,26.657324,94.28321,8,Available,Security|Patrol
+Police,Shillong,25.662606,91.919731,13,Available,Patrol
+Fire Truck,Meerut,28.889389,77.716415,8,Available,Rescue|Fire
+Ambulance,Gangtok,27.254746,88.614428,7,Available,ICU|Trauma
+Ambulance,Kagaznagar,19.383586,79.424907,7,Available,ICU|Trauma|Medical
+Fire Truck,Hindupur,13.817639,77.495451,8,Available,Fire
+Police,Kolar,13.132721,78.099624,5,Available,Security|Patrol|Crowd Control
+Ambulance,Mangalore,12.879919,74.870291,10,Available,Trauma|ICU|Medical
+Rescue Team,Valparai,10.359355,76.999477,13,Available,Mountain
+Fire Truck,Bhilai,21.215493,81.529537,14,Available,Fire
+Ambulance,Saharanpur,29.978521,77.693006,9,Available,Trauma|ICU|Medical
+Rescue Team,Port Blair,11.627394,92.802073,15,Available,Debris|Mountain|Flood
+Police,Kota,25.135218,75.867126,12,Available,Patrol|Security
+Ambulance,Bilaspur,22.041196,82.272178,9,Available,Medical|Trauma|ICU
+Supply Truck,Aligarh,27.77616,78.039129,64,Available,Food|Water|Medical Kits
+Fire Truck,Raipur,21.246209,81.694492,3,Available,Rescue
+Rescue Team,Ahmadnagar,19.063893,74.70684,5,Available,Debris
+Police,Cuddalore,11.751474,79.643718,12,Available,Crowd Control|Patrol|Security
+Fire Truck,Hapur,28.79417,77.859628,11,Available,Rescue
+Ambulance,Kurnool,15.800835,77.91039,6,Available,Medical|Trauma|ICU
+Ambulance,Jamshedpur,22.789099,86.309798,7,Available,Medical
+Ambulance,Silvassa,20.269486,72.935343,11,Available,Trauma|Medical|ICU
+Police,Ahmedabad,22.974875,72.549373,14,Available,Security|Crowd Control
+Ambulance,Sangli,16.989433,74.595763,7,Available,Trauma|Medical|ICU
+Ambulance,Navsari,20.961595,72.836893,15,Available,ICU|Trauma
+Police,Malegaon Camp,20.610942,74.6406,14,Available,Security|Patrol
+Police,Kumbakonam,11.030174,79.36949,3,Available,Security|Patrol|Crowd Control
+Ambulance,Kurnool,15.954285,78.037069,6,Available,ICU|Medical|Trauma
+Ambulance,Muzaffarpur,26.19406,85.36308,5,Available,ICU|Medical
+Ambulance,Davangere,14.462802,75.989176,6,Available,Trauma|Medical|ICU
+Ambulance,Coimbatore,10.928081,76.986373,9,Available,Medical|ICU|Trauma
+Fire Truck,Saidpur,34.356674,74.344502,11,Available,Rescue
+Fire Truck,Thiruvananthapuram,8.493705,77.061016,12,Available,Rescue|Fire
+Police,Karnal,29.715988,77.069973,4,Available,Crowd Control|Patrol
+Ambulance,Sikar,27.721786,75.189066,9,Available,Trauma|ICU
+Fire Truck,Bamanpuri,28.772792,78.916648,7,Available,Rescue|Fire
+Ambulance,Ahmedabad,22.982585,72.615234,14,Available,ICU
+Ambulance,Tirupati,13.554447,79.440711,12,Available,Medical|Trauma
+Ambulance,Bhatpara,22.884997,88.346101,7,Available,Medical
+Supply Truck,Madurai,9.917276,78.132785,134,Available,Food|Medical Kits
+Ambulance,Purnea,25.895679,87.522872,3,Available,Medical|Trauma
+Fire Truck,Bulandshahr,28.365802,77.988438,3,Available,Fire|Rescue
+Ambulance,Rohtak,28.97019,76.592489,9,Available,Trauma
+Ambulance,Jaipur,26.975624,75.763427,8,Available,Trauma
+Police,Nasik,20.062579,73.66297,5,Available,Patrol|Crowd Control
+Ambulance,Haldia,22.06875,88.097809,8,Available,Medical|Trauma|ICU
+Police,Belgaum,15.847024,74.398144,15,Available,Crowd Control|Patrol|Security
+Police,Thanjavur,10.7523,79.21345,15,Available,Patrol
+Police,Tonk,26.129622,75.857357,13,Available,Patrol|Security|Crowd Control
+Ambulance,Jorhat,26.741845,94.190483,13,Available,ICU|Medical
+Helicopter,Ajmer,26.556992,74.690536,5,Available,Survey|Rescue|Airlift
+Police,Purnea,25.731561,87.375807,15,Available,Patrol|Crowd Control|Security
+Ambulance,Brajrajnagar,21.791935,83.935825,14,Available,ICU|Medical
+Fire Truck,Dispur,26.216939,91.858841,8,Available,Rescue
+Police,Vellore,12.904773,79.090602,15,Available,Security|Patrol|Crowd Control
+Ambulance,Calicut,11.199257,75.670482,14,Available,ICU|Medical
+Police,Ghaziabad,28.58456,77.54975,10,Available,Patrol|Security|Crowd Control
+Police,Sirsa,29.479328,75.162907,3,Available,Security
+Ambulance,Jamshedpur,22.848462,86.075334,5,Available,Medical|ICU|Trauma
+Rescue Team,Tirunelveli,8.834015,77.648525,9,Available,Debris|Mountain
+Ambulance,Alwar,27.489266,76.641901,12,Available,Trauma|ICU
+Fire Truck,Bakshpur,25.882331,80.838778,3,Available,Fire|Rescue
+Police,Bidar,18.020362,77.495356,10,Available,Crowd Control|Patrol|Security
+Fire Truck,Meerut,29.089702,77.663901,4,Available,Rescue
+Ambulance,Firozabad,27.137288,78.411676,6,Available,ICU|Trauma
+Police,Jabalpur,23.273993,79.922229,6,Available,Security|Crowd Control|Patrol
+Ambulance,Hisar,29.20028,75.652361,10,Available,Trauma
+Ambulance,Bareilly,28.477958,79.39494,9,Available,Trauma|ICU
+Police,Calicut,11.312059,75.772866,7,Available,Patrol|Security
+Fire Truck,Mahabubnagar,16.690591,78.005408,14,Available,Rescue|Fire
+Police,Daman,20.392408,72.949951,13,Available,Patrol|Crowd Control
+Ambulance,Alappuzha,9.482827,76.454753,8,Available,Medical|ICU
+Police,Ahmadnagar,19.1433,74.744183,13,Available,Crowd Control|Patrol
+Fire Truck,Saidapur,27.686102,80.815182,11,Available,Rescue|Fire
+Ambulance,Cuttack,20.528693,85.922656,11,Available,Medical|Trauma|ICU
+Ambulance,Jabalpur,23.256506,79.909657,12,Available,Trauma|ICU|Medical
+Police,Indore,22.766912,75.799436,12,Available,Crowd Control
+Ambulance,Budaun,28.071858,79.226496,4,Available,Trauma|ICU|Medical
+Ambulance,Kolhapur,16.660744,74.268867,6,Available,Trauma|ICU|Medical
+Fire Truck,Lucknow,26.798175,80.983791,12,Available,Fire|Rescue
+Ambulance,Mathura,27.520151,77.711218,11,Available,Trauma|Medical
+Police,Alipurduar,26.486687,89.636952,4,Available,Crowd Control
+Police,Panipat,29.343186,77.033743,13,Available,Security|Crowd Control
+Ambulance,Latur,18.418919,76.623464,9,Available,ICU|Trauma|Medical
+Police,Aligarh,27.772705,78.11362,7,Available,Patrol
+Supply Truck,Shimla,31.170236,77.235757,170,Available,Food|Water
+Fire Truck,Agra,27.137294,77.886642,10,Available,Fire
+Ambulance,Hata,27.623676,77.928364,4,Available,Medical
+Fire Truck,Shahbazpur,27.886507,79.899959,6,Available,Rescue|Fire
+Ambulance,Rampura,26.819352,75.7432,10,Available,Trauma|ICU|Medical
+Fire Truck,Coimbatore,11.057646,77.090047,11,Available,Fire
+Ambulance,Machilipatnam,16.140118,81.009664,6,Available,Trauma
+Fire Truck,Cuttack,20.46805,85.709686,4,Available,Rescue|Fire
+Ambulance,Asansol,23.630885,87.088688,15,Available,Trauma|Medical|ICU
+Police,Krishnanagar,23.413169,88.518226,4,Available,Patrol|Security
+Police,Shiliguri,26.616468,88.468611,8,Available,Crowd Control
+Ambulance,Dhanbad,23.923979,86.469455,12,Available,Medical
+Fire Truck,Saidapur,27.555423,80.828638,11,Available,Rescue|Fire
+Ambulance,Machilipatnam,16.18136,81.119532,4,Available,Medical|ICU
+Ambulance,Ongole,15.483973,80.074586,4,Available,Trauma
+Ambulance,Pathankot,32.162826,75.639079,9,Available,ICU|Trauma|Medical
+Police,Bhiwani,28.837402,76.201766,3,Available,Patrol
+Police,Brahmapur,19.381951,84.872329,6,Available,Security|Patrol
+Police,Lucknow,26.828597,81.023557,15,Available,Patrol
+Fire Truck,Aurangabad,24.747483,84.276719,4,Available,Rescue|Fire
+Police,Jodhpur,26.363591,73.028849,6,Available,Security
+Fire Truck,Kagaznagar,19.276773,79.441997,6,Available,Fire
+Police,Hata,27.531598,77.892041,9,Available,Crowd Control|Patrol
+Ambulance,Krishnanagar,23.311532,88.543159,6,Available,Medical
+Police,Kolkata,22.518176,88.343612,12,Available,Crowd Control
+Police,Mathura,27.509927,77.792766,7,Available,Crowd Control
+Ambulance,Jammu,32.647847,74.945248,7,Available,ICU
+Ambulance,Gangtok,27.290313,88.711639,13,Available,Trauma|ICU
+Police,Puri,19.878591,85.722641,4,Available,Patrol|Crowd Control|Security
+Ambulance,Calicut,11.171788,75.811983,8,Available,Trauma
+Police,Fyzabad,26.857117,82.069503,10,Available,Security|Patrol
+Supply Truck,Krishnapuram,12.911443,79.779953,64,Available,Medical Kits
+Ambulance,Kalyan,19.165029,73.136432,3,Available,ICU|Medical
+Police,Bhatpara,22.958165,88.41037,11,Available,Security|Patrol|Crowd Control
+Fire Truck,Delhi,28.716172,77.122244,11,Available,Rescue
+Fire Truck,Agartala,23.724016,91.220432,12,Available,Rescue
+Police,Pilibhit,28.586982,79.889521,14,Available,Patrol|Security|Crowd Control
+Police,Indore,22.629327,75.790088,15,Available,Patrol|Crowd Control|Security
+Fire Truck,Delhi,28.614914,77.22682,12,Available,Fire
+Fire Truck,Meerut,28.862473,77.655163,3,Available,Rescue
+Ambulance,Bhatpara,22.900859,88.332361,7,Available,ICU
+Ambulance,Mangalore,12.759745,74.800238,12,Available,Medical
+Fire Truck,Bilaspur,22.030403,82.169705,15,Available,Rescue|Fire
+Ambulance,Saidpur,34.241259,74.39487,4,Available,Trauma|ICU|Medical
+Police,Tiruvannamalai,12.220907,79.174207,4,Available,Crowd Control|Security|Patrol
+Police,Davangere,14.49803,75.971313,4,Available,Security
+Ambulance,Gulbarga,17.452753,76.811114,4,Available,Trauma
+Ambulance,Rajkot,22.228784,70.878114,12,Available,ICU|Medical|Trauma
+Fire Truck,Nasik,19.978126,73.638536,9,Available,Fire|Rescue
+Police,Firozabad,27.178948,78.541102,12,Available,Security|Crowd Control|Patrol
+Ambulance,Imphal,24.763408,93.901792,10,Available,Medical
+Ambulance,Faridabad,28.353826,77.24806,7,Available,Trauma|ICU|Medical
+Police,Agartala,23.757642,91.332167,13,Available,Security|Crowd Control|Patrol
+Ambulance,Bharatpur,27.29644,77.515262,4,Available,Trauma|Medical
+Police,Karnal,29.785875,76.935576,3,Available,Crowd Control
+Supply Truck,Tharati Etawah,26.706606,78.966911,146,Available,Water|Medical Kits|Food
+Supply Truck,Abohar,30.234432,74.25866,151,Available,Medical Kits
+Ambulance,Tezpur,26.611068,92.72467,4,Available,ICU|Medical|Trauma
+Ambulance,Ratlam,23.411918,75.076646,11,Available,Medical
+Ambulance,Kolar,13.180289,78.092246,4,Available,Medical|ICU|Trauma
+Ambulance,Panchkula,30.646113,76.779966,9,Available,ICU
+Fire Truck,Srinagar,34.073623,74.668923,12,Available,Rescue
+Police,Dhanbad,23.825081,86.323783,7,Available,Crowd Control
+Fire Truck,Bhuj,23.200795,69.697064,7,Available,Rescue
+Supply Truck,Tiruvannamalai,12.336585,79.092845,162,Available,Medical Kits
+Rescue Team,Saugor,23.924901,78.695024,13,Available,Flood
+Police,Jaipur,26.791187,75.733316,5,Available,Patrol|Crowd Control
+Police,Ranchi,23.408167,85.3054,6,Available,Crowd Control
+Fire Truck,Nizamabad,18.634968,77.989112,4,Available,Fire|Rescue
+Ambulance,Gulbarga,17.436291,76.83919,8,Available,Medical|Trauma|ICU
+NDRF Team,Tirunelveli,8.723043,77.551633,50,Available,Chemical|Structure Collapse|Disaster Response
+Police,Tezpur,26.528372,92.8264,3,Available,Crowd Control|Security
+Ambulance,Coimbatore,10.975953,76.885104,5,Available,Trauma|Medical
+Fire Truck,Akola,20.635259,76.954877,15,Available,Fire
+Police,Porbandar,21.678113,69.492376,11,Available,Crowd Control|Security
+Ambulance,Haripur,31.522701,75.962677,9,Available,ICU|Trauma
+Supply Truck,Kurnool,15.767059,77.951699,97,Available,Water
+Ambulance,Karimnagar,18.435157,79.028362,3,Available,ICU
+Ambulance,Dibrugarh,27.571165,94.842024,10,Available,ICU|Trauma
+Fire Truck,Srinagar,34.016484,74.766042,5,Available,Fire|Rescue
+Ambulance,Gaya,24.724553,84.883091,11,Available,Medical|Trauma
+Ambulance,Ahmadnagar,19.095366,74.717723,12,Available,Medical|ICU
+Police,Bilaspur,22.067292,82.073968,3,Available,Crowd Control
+Supply Truck,Raipur,21.299112,81.586355,77,Available,Water|Medical Kits|Food
+NDRF Team,Amritsar,31.560194,74.736846,50,Available,Chemical|Disaster Response
+Supply Truck,Hospet,15.151378,76.367632,182,Available,Food
+Ambulance,Ajmer,26.430944,74.517048,10,Available,Medical|Trauma|ICU
+Police,Puducherry,11.817517,79.879045,5,Available,Crowd Control|Patrol|Security
+Ambulance,Moradabad,28.923624,78.661641,9,Available,Trauma
+Police,Panaji,15.598905,73.889317,6,Available,Crowd Control|Patrol|Security
+Ambulance,Navsari,20.792645,72.926209,12,Available,Medical|Trauma
+Police,Shimoga,14.014763,75.522381,8,Available,Crowd Control
+Fire Truck,Pune,18.409412,73.879077,9,Available,Rescue|Fire
+Supply Truck,Kagaznagar,19.321348,79.575963,105,Available,Medical Kits|Food|Water
+Police,Agra,27.144569,77.884826,15,Available,Patrol|Security
+Ambulance,Panchkula,30.70322,76.902612,5,Available,ICU|Trauma|Medical
+Ambulance,Mangalore,12.919153,74.819037,12,Available,Medical|ICU
+Ambulance,Bilaspur,22.061852,82.026726,3,Available,Trauma|Medical
+Fire Truck,Belgaum,15.738399,74.458957,12,Available,Rescue|Fire
+Fire Truck,Meerut,28.939598,77.758201,11,Available,Fire
+Ambulance,Ludhiana,30.919447,75.935366,13,Available,Medical
+Ambulance,Diu,20.693019,70.871667,10,Available,Trauma|Medical
+Ambulance,Ghandinagar,23.311428,72.692326,3,Available,ICU
+Ambulance,Gaya,24.889499,85.095092,8,Available,ICU|Trauma
+Fire Truck,Raipur,21.118349,81.662058,9,Available,Rescue
+Ambulance,Jamshedpur,22.83189,86.266402,4,Available,Trauma
+Helicopter,Cuttack,20.418116,85.726328,5,Available,Rescue|Survey|Airlift
+Police,Krishnapuram,12.856572,79.84962,14,Available,Crowd Control
+Ambulance,Belgaum,15.809837,74.46669,11,Available,ICU|Medical
+Rescue Team,Ujjain,23.236963,75.849997,10,Available,Mountain|Flood
+Fire Truck,Lucknow,26.730193,80.984827,13,Available,Fire
+Ambulance,Tirunelveli,8.669834,77.623457,6,Available,Trauma|Medical|ICU
+Police,Kurnool,15.831474,77.96006,7,Available,Crowd Control|Patrol|Security
+Ambulance,Bareilly,28.417838,79.53456,7,Available,Medical
+Police,Nasik,20.113987,73.736434,10,Available,Security|Patrol|Crowd Control
+Police,Rampura,26.916519,75.822811,7,Available,Security
+Supply Truck,Kochi,9.951562,76.253351,61,Available,Food
+Police,Mangalore,12.871821,74.763941,5,Available,Patrol|Security
+Police,Aizawl,23.7482,92.687655,7,Available,Patrol|Crowd Control
+Ambulance,Hapur,28.742169,77.834393,3,Available,ICU|Medical
+NDRF Team,Indore,22.750749,75.783296,50,Available,Structure Collapse
+Police,Kurnool,15.700623,78.018191,4,Available,Patrol
+Police,Karimnagar,18.521306,79.180863,12,Available,Security
+Police,Jodhpur,26.356622,73.082538,6,Available,Crowd Control
+Ambulance,Pune,18.501772,73.748698,12,Available,ICU
+Ambulance,Khanapur,21.261506,76.157014,3,Available,ICU
+Ambulance,Salem,11.730254,78.141758,13,Available,Medical|ICU
+Rescue Team,Samlaipadar,21.548379,84.078969,4,Available,Debris|Flood|Mountain
+Fire Truck,Kagaznagar,19.30446,79.348124,6,Available,Fire
+Police,Chandigarh,30.774889,76.657189,13,Available,Patrol
+Police,Bakshpur,25.945335,80.893754,10,Available,Patrol
+Helicopter,Khammam,17.256701,80.219368,5,Available,Airlift
+Rescue Team,Ajmer,26.446991,74.663016,8,Available,Flood|Debris
+Fire Truck,Tirupati,13.618439,79.308915,7,Available,Rescue
+Ambulance,Mumbai,19.008752,72.80657,9,Available,Trauma
+Fire Truck,Guwahati,26.202134,91.756599,7,Available,Fire
+Fire Truck,Hyderabad,17.352798,78.332237,9,Available,Rescue|Fire
+Fire Truck,Salem,11.635313,78.075072,4,Available,Fire|Rescue
+Supply Truck,Bhatpara,22.864442,88.397102,129,Available,Water|Food
+Supply Truck,Vadodara,22.336364,73.178102,59,Available,Food
+Ambulance,Ghandinagar,23.30995,72.779461,9,Available,Trauma|Medical|ICU
+Police,Ahmadnagar,18.978998,74.736167,9,Available,Security|Crowd Control|Patrol
+Police,Bhilai,21.126017,81.393573,6,Available,Security|Patrol|Crowd Control
+Police,Chennai,13.034458,80.371302,4,Available,Security
+Fire Truck,Khammam,17.216387,80.278099,14,Available,Rescue|Fire
+Fire Truck,Saharanpur,30.038164,77.419907,15,Available,Rescue|Fire
+Supply Truck,Gulbarga,17.369669,76.738539,160,Available,Medical Kits|Water
+Supply Truck,Chennai,13.214037,80.225757,131,Available,Water|Medical Kits
+Fire Truck,Ramagundam,18.527286,79.381153,6,Available,Fire|Rescue
+Supply Truck,Panipat,29.322712,76.939903,95,Available,Food|Medical Kits
+Police,Bhiwandi,19.339159,73.193566,11,Available,Crowd Control|Patrol|Security
+Ambulance,Hata,27.56814,78.042714,7,Available,ICU|Trauma
+Rescue Team,Moradabad,28.867424,78.895873,13,Available,Flood
+Police,Bhagalpur,25.273855,87.036354,13,Available,Security|Crowd Control|Patrol
+Fire Truck,Sirsa,29.582811,75.170103,9,Available,Fire|Rescue
+Ambulance,Sirsa,29.660879,74.992479,8,Available,Medical|Trauma|ICU
+Police,Tezpur,26.609963,92.844377,11,Available,Security
+Ambulance,Amritsar,31.546612,74.771202,4,Available,ICU|Trauma|Medical
+Ambulance,Nizamabad,18.655031,78.1373,8,Available,ICU
+Police,Bilaspur,22.128018,82.239305,3,Available,Security|Patrol|Crowd Control
+Ambulance,Alwar,27.478039,76.503316,10,Available,Trauma|Medical
+Police,Bijapur,16.819128,75.754058,5,Available,Security|Patrol
+Ambulance,New Delhi,28.674892,77.105904,4,Available,Trauma
+Fire Truck,Patna,25.693251,85.099681,8,Available,Rescue
+Police,Pali,25.707686,73.339363,11,Available,Patrol
+Fire Truck,Ramagundam,18.495679,79.360788,3,Available,Fire|Rescue
+Ambulance,Aligarh,27.927586,77.970788,7,Available,ICU|Medical
+Police,Bhilai,21.180244,81.449788,13,Available,Patrol|Security
+Police,Aizawl,23.698654,92.584919,6,Available,Security|Patrol
+Police,Ujjain,23.140354,75.731266,3,Available,Crowd Control|Patrol|Security
+Ambulance,Jamshedpur,22.910176,86.242801,13,Available,Medical
+Ambulance,Daman,20.364913,72.757897,9,Available,ICU|Medical|Trauma
+Ambulance,Amritsar,31.520398,74.924927,14,Available,Medical|Trauma|ICU
+Police,Imphal,24.933117,93.968341,15,Available,Crowd Control
+Ambulance,Dispur,26.12675,91.679826,5,Available,Trauma|Medical
+Police,Valparai,10.315197,76.922543,5,Available,Crowd Control|Security|Patrol
+Fire Truck,Bhilai,21.284121,81.334866,8,Available,Rescue
+Police,Patiala,30.4544,76.368665,12,Available,Patrol|Crowd Control|Security
+Ambulance,Itanagar,27.062708,93.573913,14,Available,ICU|Trauma
+Fire Truck,Hapur,28.691067,77.815789,6,Available,Rescue|Fire
+NDRF Team,Bakshpur,25.892817,80.684151,50,Available,Chemical
+Police,Guntur,16.387822,80.421357,8,Available,Crowd Control
+Police,Patiala,30.233661,76.331372,4,Available,Security|Patrol
+Fire Truck,Davangere,14.454673,75.849079,8,Available,Fire|Rescue
+NDRF Team,Nalgonda,17.158563,79.187188,50,Available,Disaster Response|Structure Collapse|Chemical
+Ambulance,Nizamabad,18.71201,78.235845,7,Available,ICU|Trauma|Medical
+Helicopter,Baramula,34.17065,74.22759,5,Available,Rescue|Airlift|Survey
+Ambulance,DehraDun,30.281654,78.043589,4,Available,ICU|Trauma
+Police,Baramula,34.311535,74.238971,13,Available,Patrol
+Fire Truck,Bijapur,16.832089,75.652701,3,Available,Fire
+Fire Truck,Lucknow,26.768357,80.79569,12,Available,Rescue|Fire
+Fire Truck,Nellore,14.439073,79.989422,5,Available,Rescue|Fire
+Ambulance,Vellore,12.900118,79.158733,11,Available,Medical|ICU|Trauma
+Police,Jamshedpur,22.705338,86.272764,4,Available,Security
+Rescue Team,Indore,22.707928,75.980473,9,Available,Mountain|Flood
+Fire Truck,Asansol,23.603542,87.053454,15,Available,Rescue
+Police,Tiruvannamalai,12.232323,79.202871,3,Available,Crowd Control|Security|Patrol
+Ambulance,Chennai,13.158041,80.271374,12,Available,ICU|Trauma
+Rescue Team,Calicut,11.175286,75.742948,8,Available,Debris
+Police,Hubli,15.319359,75.138555,13,Available,Patrol|Crowd Control|Security
+Police,Krishnanagar,23.430509,88.629131,4,Available,Patrol|Security
+Ambulance,Rajahmundry,16.997592,81.903446,15,Available,Trauma|Medical|ICU
+Supply Truck,Jodhpur,26.217592,72.980087,83,Available,Food|Medical Kits|Water
+Ambulance,Thanjavur,10.791251,79.082612,4,Available,Trauma|Medical|ICU
+Police,Aligarh,27.889856,77.98778,9,Available,Patrol
+Fire Truck,Navsari,20.859985,72.860388,12,Available,Rescue|Fire
+Ambulance,Imphal,24.722794,93.850716,10,Available,Medical|ICU
+Rescue Team,Salem,11.757133,78.212922,15,Available,Debris|Mountain|Flood
+Ambulance,Raichur,16.12297,77.442453,13,Available,Medical|ICU|Trauma
+Rescue Team,Ranchi,23.463858,85.378881,13,Available,Mountain
+Police,Kochi,9.901649,76.183876,8,Available,Crowd Control|Patrol|Security
+Ambulance,Tonk,26.20912,75.666232,9,Available,Medical|ICU|Trauma
+Ambulance,Samlaipadar,21.427167,84.034247,12,Available,Medical|ICU
+Ambulance,Hindupur,13.803121,77.464867,6,Available,Trauma
+Fire Truck,Bareilly,28.395098,79.457487,9,Available,Fire|Rescue
+Ambulance,Raurkela,22.260598,84.855129,4,Available,Trauma|ICU
+Police,Khanapur,21.298668,76.021534,5,Available,Patrol|Security|Crowd Control
+Fire Truck,Tezpur,26.645525,92.889844,15,Available,Rescue|Fire
+Fire Truck,Sirsa,29.517326,75.082474,11,Available,Rescue|Fire
+Police,Parbhani,19.309182,76.751137,12,Available,Crowd Control
+Ambulance,Gulbarga,17.214227,76.839718,10,Available,Trauma
+Ambulance,Puducherry,12.057178,79.867942,13,Available,Medical|Trauma
+Police,Jorhat,26.875279,94.215579,3,Available,Patrol|Security|Crowd Control
+Police,Kagaznagar,19.204933,79.493537,9,Available,Patrol|Security|Crowd Control
+Fire Truck,DehraDun,30.39025,77.963052,6,Available,Fire|Rescue
+Supply Truck,Shiliguri,26.802702,88.419053,147,Available,Food|Medical Kits|Water
+Ambulance,Ajmer,26.342327,74.651344,9,Available,ICU|Trauma|Medical
+Ambulance,Tharati Etawah,26.797409,78.94211,3,Available,Trauma|Medical|ICU
+Police,Ajmer,26.369057,74.676242,13,Available,Security|Patrol
+Fire Truck,Tirupati,13.613979,79.338456,4,Available,Fire
+Ambulance,Karur,10.971692,78.029501,13,Available,ICU|Trauma
+Ambulance,Ahmadnagar,19.099668,74.878947,15,Available,Medical|ICU|Trauma
+Fire Truck,Gangtok,27.332883,88.665367,9,Available,Fire
+Ambulance,Raichur,16.274501,77.450328,7,Available,Trauma
+Rescue Team,Khanapur,21.168696,76.180436,14,Available,Flood|Debris
+Ambulance,Ahmadnagar,19.126663,74.695083,5,Available,Medical
+Supply Truck,Jamshedpur,22.860351,86.276386,55,Available,Medical Kits|Food|Water
+Helicopter,Thiruvananthapuram,8.456559,76.899554,5,Available,Survey|Airlift
+Ambulance,Kochi,9.934871,76.143511,4,Available,ICU|Trauma
+Ambulance,Khanapur,21.238587,76.116059,8,Available,Medical
+Ambulance,Gulbarga,17.249595,76.838867,13,Available,Medical
+Fire Truck,Pathankot,32.184712,75.646703,4,Available,Fire|Rescue
+Ambulance,Bhagalpur,25.116722,86.957427,4,Available,Medical|Trauma
+Helicopter,Bulandshahr,28.470373,77.830154,5,Available,Survey
+Police,DehraDun,30.446448,78.054975,13,Available,Security|Patrol
+Ambulance,Kurnool,15.757165,78.089584,7,Available,ICU|Trauma|Medical
+Fire Truck,Saidapur,27.629486,80.763584,5,Available,Fire|Rescue
+Fire Truck,Alappuzha,9.397556,76.322423,8,Available,Rescue
+Ambulance,Gangtok,27.283964,88.73191,14,Available,Trauma|ICU
+Ambulance,Kolkata,22.564396,88.500897,9,Available,Medical|ICU|Trauma
+Ambulance,Gopalpur,26.723566,83.500852,9,Available,ICU|Medical
+Police,Bikaner,28.056243,73.373398,10,Available,Patrol|Crowd Control
+Helicopter,Rajkot,22.37069,70.699363,5,Available,Rescue|Airlift
+Helicopter,Chikka Mandya,12.484127,76.848743,5,Available,Survey|Airlift
+Police,Srinagar,34.023258,74.771983,10,Available,Crowd Control|Patrol|Security
+Ambulance,Gaya,24.828376,85.116661,10,Available,Trauma|Medical
+Ambulance,Rajahmundry,17.07832,81.8762,10,Available,Trauma|ICU|Medical
+Fire Truck,Pilibhit,28.617352,79.688752,5,Available,Fire
+Ambulance,Bharatpur,27.166895,77.490327,13,Available,ICU|Trauma|Medical
+Police,Haripur,31.563755,75.934362,6,Available,Security|Crowd Control
+Ambulance,Mirzapur,25.223632,82.561273,15,Available,Medical|Trauma
+Ambulance,Aizawl,23.645741,92.752072,12,Available,ICU
+Ambulance,Karur,10.994122,78.088185,7,Available,Medical
+Ambulance,Hapur,28.657934,77.736354,13,Available,Trauma
+Ambulance,Ahmedabad,22.927699,72.53519,8,Available,Trauma|ICU|Medical
+Ambulance,Ahmedabad,23.09419,72.524718,15,Available,ICU|Medical|Trauma
+Police,Budaun,28.104433,79.001511,6,Available,Crowd Control
+Ambulance,Kolkata,22.551473,88.232313,7,Available,ICU|Medical
+Ambulance,Ujjain,23.238822,75.687491,11,Available,ICU|Trauma
+Ambulance,Sirsa,29.575142,75.132238,5,Available,Medical|Trauma|ICU
+Ambulance,Kurnool,15.732208,78.02684,15,Available,Medical
+Fire Truck,Jabalpur,23.291568,79.883767,12,Available,Rescue|Fire
+Police,Khanapur,21.183315,76.083025,14,Available,Security|Patrol|Crowd Control
+Police,Saharanpur,30.086231,77.474215,3,Available,Patrol|Crowd Control
+Rescue Team,Madurai,9.939086,78.059587,10,Available,Mountain|Flood
+Police,Nellore,14.401458,79.971073,9,Available,Patrol|Security
+Ambulance,Haora,22.51852,88.353682,9,Available,ICU
+Supply Truck,Kochi,10.047471,76.170701,51,Available,Water|Medical Kits
+Supply Truck,Ujjain,23.181295,75.770664,107,Available,Medical Kits
+Police,Allahabad,25.411159,81.837292,8,Available,Crowd Control|Patrol
+Ambulance,Jabalpur,23.066151,79.967476,15,Available,Medical|Trauma|ICU
+Police,Mangalore,12.859797,74.933483,10,Available,Patrol|Security
+Fire Truck,Ajmer,26.407514,74.55463,15,Available,Rescue|Fire
+Police,Nellore,14.406825,79.89489,4,Available,Patrol
+Ambulance,Kollam,8.883483,76.71556,12,Available,ICU|Trauma
+Police,Warangal,17.913818,79.608665,15,Available,Patrol|Crowd Control
+Ambulance,Aizawl,23.684952,92.806025,8,Available,Trauma|Medical
+Police,Daman,20.527826,72.823827,15,Available,Crowd Control|Security|Patrol
+Ambulance,Bharatpur,27.201327,77.534647,7,Available,Medical|ICU|Trauma
+Ambulance,Kota,25.127238,75.952941,3,Available,Medical|Trauma|ICU
+Ambulance,Aurangabad,24.775293,84.406789,11,Available,Trauma|Medical
+Police,Guntur,16.32202,80.440204,15,Available,Patrol|Crowd Control
+Ambulance,Haripur,31.428753,76.01928,14,Available,Medical
+Police,Bulandshahr,28.439729,77.723364,3,Available,Security|Crowd Control|Patrol
+Police,Belgaum,15.841475,74.439532,5,Available,Crowd Control|Patrol|Security
+Police,Bulandshahr,28.300758,77.852568,7,Available,Security|Crowd Control|Patrol
+Ambulance,Jorhat,26.745953,94.151743,12,Available,ICU|Trauma|Medical
+Rescue Team,Faridabad,28.534156,77.373823,12,Available,Debris
+Ambulance,Bidar,17.908847,77.389129,14,Available,ICU|Medical
+Ambulance,Rajahmundry,17.019655,81.716997,9,Available,ICU|Trauma
+NDRF Team,Ramagundam,18.473176,79.18429,50,Available,Structure Collapse
+NDRF Team,Indore,22.585314,75.842676,50,Available,Structure Collapse|Disaster Response
+Police,Hubli,15.294486,75.200873,7,Available,Patrol
+Police,Agra,27.303188,77.9745,3,Available,Patrol
+Fire Truck,Nalgonda,16.969531,79.16598,5,Available,Fire
+Police,Jorhat,26.847825,94.184885,6,Available,Security|Crowd Control|Patrol
+Police,Ghandinagar,23.203669,72.541865,11,Available,Patrol|Security
+Supply Truck,Port Blair,11.625098,92.727702,128,Available,Water|Medical Kits|Food
+Supply Truck,Bijapur,16.800344,75.62058,68,Available,Water|Food
+Fire Truck,Kalyan,19.285609,73.010462,4,Available,Rescue|Fire
+Police,Pilibhit,28.577513,79.79228,6,Available,Crowd Control
+Rescue Team,Nandyal,15.409551,78.554831,10,Available,Mountain|Debris
+Police,Faridabad,28.467363,77.196461,4,Available,Patrol
+Supply Truck,Bulandshahr,28.52714,77.912613,198,Available,Food
+Ambulance,Kolkata,22.478808,88.367699,12,Available,Trauma|Medical
+Supply Truck,Delhi,28.776085,77.235197,104,Available,Water|Medical Kits|Food
+Ambulance,Salem,11.637069,78.054865,12,Available,ICU
+Ambulance,Salem,11.675299,78.107719,12,Available,ICU|Trauma
+Police,Hubli,15.404225,75.169613,6,Available,Crowd Control|Security|Patrol
+Ambulance,Jabalpur,23.270457,79.894331,6,Available,ICU|Medical
+Rescue Team,Ongole,15.419268,80.003159,15,Available,Mountain|Debris|Flood
+Fire Truck,Hindupur,13.699281,77.462825,11,Available,Fire
+NDRF Team,Raipur,21.172124,81.618882,50,Available,Disaster Response|Structure Collapse
+Ambulance,Bellary,15.060367,76.992005,5,Available,Medical|Trauma
+Police,Amaravati,20.948902,77.89358,15,Available,Patrol
+Rescue Team,Panipat,29.331411,77.08566,10,Available,Mountain|Debris|Flood
+Police,Navsari,20.841422,72.869422,9,Available,Security|Crowd Control
+Police,Salem,11.577608,78.193286,15,Available,Crowd Control
+Police,Kumbakonam,10.839588,79.401982,13,Available,Patrol|Security|Crowd Control
+Ambulance,Kochi,9.999341,76.348521,10,Available,Medical|ICU
+Police,Nizamabad,18.549268,78.056552,12,Available,Crowd Control|Security
+Fire Truck,Ujjain,23.245123,75.820969,7,Available,Fire|Rescue
+Ambulance,Hindupur,13.82216,77.388325,8,Available,Trauma|Medical|ICU
+Police,Rajahmundry,16.879044,81.779352,6,Available,Crowd Control|Patrol
+Police,Bhagalpur,25.365884,86.946774,7,Available,Security|Patrol|Crowd Control
+Rescue Team,Muzaffarpur,26.16173,85.482528,7,Available,Mountain|Flood|Debris
+Ambulance,Bhagalpur,25.266074,86.913488,8,Available,Trauma
+Ambulance,Kakinada,16.977343,82.356118,6,Available,ICU|Trauma|Medical
+Ambulance,Fyzabad,26.861016,82.054569,12,Available,ICU
+Ambulance,Hubli,15.374945,75.040115,3,Available,ICU
+Police,Muzaffarpur,26.167688,85.319336,4,Available,Crowd Control
+Ambulance,Karnal,29.679277,76.928458,15,Available,Trauma|ICU|Medical
+Police,Kalyan,19.315799,73.064234,10,Available,Security|Patrol|Crowd Control
+Fire Truck,Puducherry,11.860331,79.766255,9,Available,Rescue|Fire
+Police,Barddhaman,23.190242,87.896867,13,Available,Patrol
+Ambulance,Rajapalaiyam,9.375451,77.484826,3,Available,Trauma|Medical|ICU
+Ambulance,Meerut,28.864508,77.661972,11,Available,Trauma
+Ambulance,New Delhi,28.507156,77.098304,4,Available,Trauma|Medical
+Police,Lucknow,26.927712,80.914248,7,Available,Security|Crowd Control|Patrol
+Supply Truck,Bulandshahr,28.360725,77.977996,157,Available,Medical Kits|Water|Food
+Police,Khammam,17.317753,80.099655,14,Available,Security|Patrol|Crowd Control
+Ambulance,Gulbarga,17.312533,76.877215,11,Available,Medical|ICU|Trauma
+Rescue Team,Sirsa,29.531563,75.108091,6,Available,Mountain|Flood
+Police,Aizawl,23.69673,92.745314,8,Available,Patrol|Crowd Control|Security
+Police,Aurangabad,19.763701,75.331562,13,Available,Security
+Ambulance,Bhatpara,22.923047,88.402572,14,Available,ICU|Trauma
+Fire Truck,Tirupati,13.620122,79.544562,13,Available,Fire|Rescue
+Police,Surat,21.180722,72.837991,8,Available,Patrol|Crowd Control
+Ambulance,Moradabad,28.940424,78.861279,15,Available,ICU|Trauma
+Supply Truck,Patiala,30.337737,76.308708,173,Available,Food|Water|Medical Kits
+Rescue Team,Gwalior,26.214601,78.280527,10,Available,Mountain|Flood
+Ambulance,Chennai,13.113692,80.137319,8,Available,ICU|Trauma
+Supply Truck,Shahbazpur,27.888339,79.737266,72,Available,Food
+Ambulance,Udaipur,24.686256,73.676865,9,Available,Medical
+Rescue Team,Belgaum,15.813901,74.496927,9,Available,Debris|Flood
+Ambulance,Patna,25.689449,85.186962,15,Available,Medical|ICU
+Ambulance,Vadodara,22.191997,73.209825,6,Available,Trauma|ICU|Medical
+Police,Bhagalpur,25.223175,87.017667,13,Available,Security|Crowd Control|Patrol
+Ambulance,Mahabubnagar,16.65622,78.046752,8,Available,Trauma
+Police,Ambala,30.425923,76.675105,6,Available,Patrol|Crowd Control
+Police,Jorhat,26.82406,94.300392,11,Available,Security
+Ambulance,Bamanpuri,28.749559,78.969231,8,Available,ICU|Trauma|Medical
+Police,Nellore,14.487053,80.09576,8,Available,Security
+Ambulance,Kavaratti,10.667168,72.594729,14,Available,ICU|Medical|Trauma
+Fire Truck,Asansol,23.681072,86.981435,14,Available,Fire
+Ambulance,Saidapur,27.593755,80.774489,5,Available,Trauma|ICU|Medical
+Ambulance,Kollam,8.991741,76.523048,4,Available,Medical
+Rescue Team,Belgaum,15.809383,74.554125,11,Available,Flood|Debris|Mountain
+Rescue Team,Kolar,13.230351,78.12214,5,Available,Debris|Flood|Mountain
+Ambulance,Bhilai,21.267184,81.488513,12,Available,Medical|Trauma
+Ambulance,Gaya,24.690541,84.912252,15,Available,Trauma
+Ambulance,Saidpur,34.278357,74.422502,13,Available,Medical
+Fire Truck,Chandigarh,30.778431,76.881187,15,Available,Fire|Rescue
+Rescue Team,Gurugram,28.511221,77.117026,4,Available,Flood|Mountain|Debris
+Fire Truck,Bakshpur,25.812763,80.896176,6,Available,Fire
+Ambulance,Imphal,24.90104,93.950493,4,Available,Medical|Trauma
+Police,Bhubaneshwar,20.300884,85.82635,11,Available,Crowd Control|Security
+Ambulance,Mahabubnagar,16.701129,78.055517,13,Available,ICU|Trauma
+Police,Nanded,19.084812,77.411476,6,Available,Security
+Ambulance,Porbandar,21.656099,69.511302,13,Available,Trauma
+Police,Belgaum,15.751974,74.493116,14,Available,Patrol|Security
+Ambulance,Shillong,25.613821,91.908262,11,Available,Medical|ICU
+Police,Shahbazpur,27.791355,79.7724,12,Available,Patrol
+Ambulance,Aurangabad,19.831513,75.266726,5,Available,Medical|ICU|Trauma
+Ambulance,Hata,27.665744,78.067576,9,Available,ICU|Medical|Trauma
+Ambulance,Tirupati,13.63196,79.423888,13,Available,ICU|Medical
+Ambulance,Kohima,25.605496,94.16364,10,Available,ICU
+Supply Truck,Vishakhapatnam,17.669374,83.209745,81,Available,Food|Water|Medical Kits
+NDRF Team,Bhatpara,22.907413,88.357791,50,Available,Disaster Response|Chemical
+Police,Silvassa,20.200939,73.040814,12,Available,Crowd Control|Patrol
+Police,Silchar,24.936454,92.783974,9,Available,Security|Patrol
+Ambulance,Vizianagaram,18.204383,83.328501,14,Available,ICU|Medical
+Police,Bamanpuri,28.737703,78.967205,14,Available,Crowd Control|Security|Patrol
+Police,Hyderabad,17.333778,78.34083,10,Available,Security|Patrol|Crowd Control
+Ambulance,Nanded,19.120013,77.212279,12,Available,Trauma|ICU|Medical
+Police,Sikar,27.726971,75.217415,6,Available,Patrol|Crowd Control|Security
+Police,Jorhat,26.657531,94.19673,12,Available,Patrol|Security
+Supply Truck,Ajmer,26.361161,74.674135,176,Available,Medical Kits|Water|Food
+Police,Firozabad,27.123255,78.251817,15,Available,Crowd Control|Patrol|Security
+Ambulance,Proddatur,14.826279,78.513874,5,Available,Medical|Trauma|ICU
+Fire Truck,Mangalore,12.8275,74.797182,12,Available,Fire
+Police,Silchar,24.926897,92.82355,14,Available,Crowd Control|Security
+Ambulance,Dhanbad,23.792678,86.432328,3,Available,Trauma|Medical|ICU
+Ambulance,Shimoga,13.972011,75.476053,7,Available,Medical
+Supply Truck,Rajapalaiyam,9.434845,77.424242,113,Available,Medical Kits|Water|Food
+Police,Bijapur,16.933759,75.803477,8,Available,Crowd Control|Security
+Fire Truck,Ambala,30.267553,76.906125,10,Available,Rescue|Fire
+Police,DehraDun,30.425367,77.988198,9,Available,Security|Patrol|Crowd Control
+Police,Bhiwandi,19.249734,73.048154,7,Available,Security|Crowd Control|Patrol
+Ambulance,Nandyal,15.59893,78.495113,5,Available,ICU
+Police,Hindupur,13.810418,77.612514,14,Available,Crowd Control|Security|Patrol
+Fire Truck,Jaipur,27.043936,75.767152,11,Available,Rescue
+Ambulance,Guntur,16.297518,80.33922,8,Available,Trauma|Medical
+Police,Bhiwani,28.805215,76.08982,4,Available,Patrol|Crowd Control|Security
+Supply Truck,Mumbai,18.969771,72.875682,193,Available,Medical Kits
+Fire Truck,Khanapur,21.171419,76.186534,13,Available,Fire|Rescue
+Rescue Team,Budaun,27.974376,79.242249,12,Available,Mountain|Flood
+Ambulance,Bakshpur,25.933657,80.724808,5,Available,Medical
+Ambulance,Hyderabad,17.350939,78.403757,11,Available,ICU|Trauma|Medical
+Ambulance,Nellore,14.355299,79.950291,10,Available,Trauma|Medical|ICU
+Rescue Team,Jorhat,26.822262,94.157307,3,Available,Debris|Mountain
+Supply Truck,Bareilly,28.37433,79.367376,50,Available,Medical Kits|Water|Food
+Ambulance,Jhansi,25.575694,78.541766,3,Available,Trauma
+Police,Kochi,10.007307,76.136783,14,Available,Crowd Control|Patrol
+Ambulance,Chirala,15.785058,80.225869,12,Available,Medical
+Ambulance,Puducherry,11.940966,79.786504,4,Available,ICU|Medical
+Fire Truck,Tezpur,26.704233,92.882856,6,Available,Rescue
+Supply Truck,Jammu,32.666879,74.897241,134,Available,Medical Kits
+Police,Calicut,11.18094,75.723302,3,Available,Security|Crowd Control|Patrol
+Rescue Team,Jhansi,25.41997,78.494463,7,Available,Mountain|Debris
+Fire Truck,Kolhapur,16.664627,74.332047,4,Available,Fire
+Ambulance,Calicut,11.265936,75.734366,12,Available,Trauma
+Rescue Team,Pune,18.531519,73.941256,11,Available,Debris|Mountain
+Ambulance,Bharauri,27.686792,81.581824,10,Available,Trauma|Medical|ICU
+Police,Hubli,15.24607,75.173113,15,Available,Patrol|Security|Crowd Control
+Fire Truck,Hyderabad,17.333991,78.560805,15,Available,Rescue
+Police,Sirsa,29.617479,74.92626,12,Available,Security|Patrol
+Fire Truck,Jodhpur,26.162437,73.068717,4,Available,Fire
+Police,Port Blair,11.673725,92.789429,13,Available,Crowd Control
+Ambulance,Aurangabad,24.794641,84.350198,4,Available,Medical
+Police,Ajmer,26.47329,74.771214,3,Available,Crowd Control|Patrol
+Police,Parbhani,19.374799,76.766132,12,Available,Crowd Control|Patrol|Security
+Ambulance,Aurangabad,24.812889,84.489694,6,Available,ICU|Trauma|Medical
+Ambulance,Hindupur,13.789544,77.538649,11,Available,Medical|ICU|Trauma
+Ambulance,Agra,27.194923,78.050548,15,Available,Medical|ICU|Trauma
+Fire Truck,Sangli,16.752845,74.620278,13,Available,Fire
+Ambulance,Mumbai,18.97483,72.97139,8,Available,ICU
+Police,Tiruvannamalai,12.358979,79.0479,8,Available,Patrol|Crowd Control|Security
+Fire Truck,Hyderabad,17.362687,78.343151,15,Available,Rescue|Fire
+Ambulance,Abohar,30.104088,74.211247,8,Available,ICU|Trauma
+Police,Agra,27.203213,78.002177,10,Available,Patrol|Security
+Fire Truck,Lucknow,26.793603,81.014693,13,Available,Fire|Rescue
+Fire Truck,Krishnanagar,23.491551,88.538814,12,Available,Rescue
+Fire Truck,Agartala,23.85236,91.195165,9,Available,Rescue
+Ambulance,Faridabad,28.433233,77.205926,9,Available,Trauma
+Ambulance,Kurnool,15.713689,77.992486,11,Available,Trauma|Medical|ICU
+Police,Kolkata,22.529953,88.366445,6,Available,Security|Crowd Control|Patrol
+Ambulance,Bhubaneshwar,20.316217,85.883091,15,Available,Medical|Trauma
+Helicopter,Vishakhapatnam,17.659942,83.191582,5,Available,Airlift|Rescue
+Ambulance,Diu,20.64261,70.937588,13,Available,ICU|Trauma|Medical
+Police,Dispur,26.208408,91.714418,14,Available,Security|Patrol
+Ambulance,Nanded,19.234441,77.375186,3,Available,Trauma|Medical
+Supply Truck,Puducherry,11.825291,79.863263,176,Available,Medical Kits|Water
+Police,Kochi,9.922516,76.333627,11,Available,Security|Patrol
+Ambulance,Bilaspur,22.031981,82.100638,10,Available,Trauma|ICU|Medical
+Supply Truck,Tiruvannamalai,12.286954,78.957938,194,Available,Food
+Ambulance,Hisar,29.131219,75.570855,6,Available,ICU|Trauma|Medical
+Ambulance,Surat,21.194844,72.799746,14,Available,Trauma
+NDRF Team,Cuddalore,11.816866,79.687251,50,Available,Disaster Response|Structure Collapse
+Helicopter,Mumbai,18.941035,72.771627,5,Available,Airlift
+Supply Truck,Karur,10.983182,78.082072,96,Available,Food|Water|Medical Kits
+NDRF Team,Port Blair,11.691164,92.805142,50,Available,Chemical|Disaster Response
+Fire Truck,Mahabubnagar,16.73284,77.906071,7,Available,Rescue|Fire
+Police,Shimoga,13.940117,75.440822,8,Available,Crowd Control|Security
+Ambulance,Rohtak,28.864362,76.487581,13,Available,Trauma|Medical|ICU
+Supply Truck,Saidapur,27.672975,80.815525,177,Available,Water|Medical Kits
+Rescue Team,Ahmadnagar,19.194368,74.64653,11,Available,Debris|Mountain
+Ambulance,Ramagundam,18.43693,79.280867,15,Available,Trauma|Medical|ICU
+Ambulance,Mahabubnagar,16.79562,78.094201,3,Available,Medical|ICU
+Ambulance,Jammu,32.849055,74.866222,9,Available,Medical|Trauma
+Ambulance,Jorhat,26.742157,94.345453,9,Available,Trauma
+Ambulance,Alipurduar,26.511197,89.64373,4,Available,ICU
+Police,Hisar,29.068759,75.711421,12,Available,Crowd Control
+Ambulance,Raipur,21.174337,81.593105,13,Available,ICU|Trauma|Medical
+Police,Raichur,16.158056,77.414051,9,Available,Security|Crowd Control
+Rescue Team,Lucknow,26.787915,80.95842,7,Available,Flood|Mountain
+Ambulance,Ujjain,23.243833,75.830417,11,Available,ICU
+Fire Truck,Karnal,29.75508,76.993468,8,Available,Fire
+Supply Truck,Amritsar,31.71207,74.91103,151,Available,Water|Medical Kits
+Ambulance,Krishnanagar,23.285522,88.441121,13,Available,ICU|Trauma
+Ambulance,Pathankot,32.273946,75.780349,4,Available,ICU|Medical|Trauma
+Fire Truck,Bhopal,23.28698,77.399056,4,Available,Rescue
+Ambulance,Krishnanagar,23.285563,88.462599,14,Available,Trauma|ICU
+NDRF Team,Hisar,29.190786,75.862192,50,Available,Structure Collapse|Disaster Response
+Police,Shiliguri,26.723032,88.465276,15,Available,Patrol|Security
+Ambulance,Alappuzha,9.563538,76.385505,5,Available,Medical|Trauma|ICU
+Fire Truck,Kakinada,16.889265,82.299563,15,Available,Rescue|Fire
+Fire Truck,Latur,18.456994,76.542681,14,Available,Rescue
+Ambulance,New Delhi,28.5537,77.169876,10,Available,ICU|Medical
+Supply Truck,Nalgonda,17.084439,79.329326,101,Available,Water|Medical Kits
+Fire Truck,Mirzapur,25.100143,82.515344,7,Available,Fire
+Police,Diu,20.624503,71.073825,4,Available,Security
+Police,Moradabad,28.818975,78.635705,11,Available,Crowd Control|Security|Patrol
+Police,Raurkela,22.18272,84.783414,6,Available,Security|Crowd Control|Patrol
+Ambulance,Jabalpur,23.165285,79.828336,11,Available,Trauma|ICU|Medical
+Police,Alwar,27.627572,76.477163,9,Available,Crowd Control|Security|Patrol
+Ambulance,Muzaffarpur,26.091897,85.531886,5,Available,Trauma|Medical|ICU
+Ambulance,Sonipat,29.062249,77.030666,12,Available,Trauma|Medical
+Supply Truck,Surat,21.119638,72.77496,109,Available,Food
+Police,Kolhapur,16.580345,74.207245,4,Available,Patrol|Crowd Control
+Fire Truck,Bellary,15.028347,76.868444,7,Available,Rescue|Fire
+NDRF Team,Nasik,19.993939,73.658424,50,Available,Disaster Response|Structure Collapse
+Rescue Team,Barddhaman,23.36889,87.911523,14,Available,Debris|Flood
+Ambulance,Fyzabad,26.790172,82.275825,9,Available,Medical|ICU
+Ambulance,Rajapalaiyam,9.41272,77.488215,8,Available,Medical|ICU|Trauma
+Ambulance,Rohtak,28.96553,76.662194,6,Available,Medical
+Ambulance,Varanasi,25.423596,82.985241,7,Available,Medical|ICU
+Ambulance,Pilibhit,28.515917,79.80111,11,Available,Medical|ICU
+Supply Truck,Asansol,23.622519,87.107823,71,Available,Food
+Police,Hata,27.540525,77.922596,5,Available,Patrol|Crowd Control|Security
+Police,Amaravati,20.891251,77.632007,10,Available,Patrol|Security|Crowd Control
+Police,Navsari,20.795548,72.88465,5,Available,Patrol|Crowd Control|Security
+Police,Rohtak,28.864786,76.508518,6,Available,Security
+Ambulance,Shimla,31.234309,77.142563,12,Available,Medical|ICU|Trauma
+Fire Truck,Sonipat,28.950929,76.974957,8,Available,Fire
+Fire Truck,Valparai,10.39007,77.06319,8,Available,Fire|Rescue
+Ambulance,Faridabad,28.309751,77.322326,7,Available,Medical|Trauma|ICU
+Ambulance,Bhiwani,28.682885,76.166661,4,Available,ICU|Trauma
+Police,Nanded,19.094782,77.409233,10,Available,Security|Patrol|Crowd Control
+Police,Muzaffarnagar,29.448828,77.632388,5,Available,Crowd Control
+Ambulance,Salem,11.661267,78.125021,15,Available,Medical|Trauma
+Police,Haldia,22.084024,88.003064,4,Available,Crowd Control|Patrol
+Police,Calicut,11.273671,75.677532,6,Available,Crowd Control
+Police,Calicut,11.207137,75.689042,8,Available,Crowd Control
+Ambulance,Kohima,25.729242,94.231849,3,Available,Trauma
+Fire Truck,Proddatur,14.677273,78.440308,7,Available,Fire
+Ambulance,Mumbai,19.048031,72.913503,8,Available,Trauma|ICU
+Supply Truck,Budaun,28.160541,79.078564,126,Available,Medical Kits
+Police,Delhi,28.724192,77.190381,5,Available,Patrol
+Ambulance,Chirala,15.80353,80.260874,5,Available,ICU|Medical
+Ambulance,Bharatpur,27.255443,77.450509,15,Available,Medical|Trauma
+Police,Vishakhapatnam,17.719435,83.365142,11,Available,Security
+Police,Chandigarh,30.682473,76.837139,9,Available,Crowd Control|Patrol|Security
+Rescue Team,Kagaznagar,19.400922,79.394741,10,Available,Mountain
+Ambulance,Samlaipadar,21.426229,84.116542,12,Available,ICU|Medical
+Ambulance,Aligarh,27.796912,78.152188,9,Available,ICU|Trauma|Medical
+Fire Truck,Chikka Mandya,12.457188,76.870008,4,Available,Fire|Rescue
+Ambulance,Bhiwani,28.849976,76.203468,8,Available,Medical|ICU
+Supply Truck,Tonk,26.052969,75.851787,150,Available,Medical Kits|Water|Food
+Ambulance,Tharati Etawah,26.632227,78.981206,13,Available,Trauma|Medical|ICU
+Police,Chikka Mandya,12.626784,76.877646,13,Available,Crowd Control|Patrol|Security
+Rescue Team,Pali,25.836496,73.279558,12,Available,Debris|Mountain
+Police,Patiala,30.281135,76.431002,3,Available,Patrol|Crowd Control
+Ambulance,Amritsar,31.508543,74.852922,14,Available,ICU|Medical|Trauma
+Police,Saidpur,34.417039,74.364077,5,Available,Crowd Control|Security|Patrol
+Police,Amaravati,20.874265,77.821807,13,Available,Security|Crowd Control
+Police,Alwar,27.687864,76.658207,6,Available,Patrol|Crowd Control|Security
+Ambulance,Ramagundam,18.552697,79.191918,15,Available,Trauma
+Police,Bengaluru,12.981032,77.575532,13,Available,Security|Crowd Control|Patrol
+Police,Tonk,26.063784,75.713556,15,Available,Security|Patrol|Crowd Control
+Ambulance,Chandigarh,30.735601,76.88729,9,Available,ICU|Medical
+Fire Truck,Jorapokhar,23.651071,86.521986,12,Available,Rescue|Fire
+Police,Bakshpur,25.940959,80.74594,10,Available,Security
+Ambulance,Salem,11.741702,78.212988,5,Available,Medical|ICU
+Ambulance,Ahmadnagar,19.092749,74.822691,14,Available,ICU|Medical
+Police,Kavaratti,10.553552,72.542237,4,Available,Patrol|Crowd Control|Security
+Police,Kurnool,15.849219,78.100605,4,Available,Crowd Control
+Ambulance,Baramula,34.277885,74.245784,11,Available,Trauma|ICU|Medical
+Police,Ramagundam,18.413694,79.389802,11,Available,Patrol|Crowd Control
+Ambulance,Haripur,31.454015,76.007434,10,Available,Trauma|ICU
+Police,Kolar,13.068065,78.241261,3,Available,Patrol
+Ambulance,Gwalior,26.261743,78.109621,4,Available,ICU
+Fire Truck,Dindigul,10.36359,78.064061,13,Available,Fire
+Ambulance,Sikar,27.563473,75.268405,15,Available,Medical|ICU
+Ambulance,Aurangabad,24.69607,84.48798,3,Available,Medical
+NDRF Team,Hisar,29.063857,75.764383,50,Available,Structure Collapse
+Police,Puducherry,12.019824,79.748837,6,Available,Crowd Control
+Fire Truck,Vellore,12.958793,79.062932,14,Available,Rescue|Fire
+Police,Kakinada,17.038903,82.298827,9,Available,Security|Patrol|Crowd Control
+Police,Samlaipadar,21.360021,84.055157,4,Available,Crowd Control|Security
+Fire Truck,Kollam,8.907104,76.658619,7,Available,Fire
+Fire Truck,Jamshedpur,22.880579,86.299842,9,Available,Fire|Rescue
+Police,Rohtak,29.012203,76.62743,14,Available,Patrol|Crowd Control|Security
+Police,Parbhani,19.298673,76.877184,12,Available,Patrol|Security|Crowd Control
+Police,Port Blair,11.665689,92.860273,13,Available,Patrol
+Police,Amritsar,31.610856,74.718772,7,Available,Patrol
+Ambulance,Tiruchchirappalli,10.879449,78.711631,3,Available,ICU|Medical|Trauma
+Ambulance,Kurnool,15.915386,78.025799,7,Available,Medical|ICU
+Ambulance,Ghaziabad,28.650985,77.440185,13,Available,Trauma|Medical
+Fire Truck,Asansol,23.742131,86.918406,8,Available,Fire|Rescue
+Police,Bhilai,21.155523,81.4823,15,Available,Crowd Control
+Ambulance,Sonipat,28.917339,76.915986,15,Available,Medical|Trauma|ICU
+Ambulance,Nellore,14.37698,80.025721,14,Available,ICU|Trauma|Medical
+Ambulance,Sangli,16.727459,74.529611,7,Available,Medical|ICU
+Fire Truck,Alipurduar,26.36528,89.475551,14,Available,Fire|Rescue
+Ambulance,Pali,25.888558,73.247232,13,Available,ICU|Trauma
+Ambulance,Nagercoil,8.179509,77.297977,15,Available,ICU
+Police,Kumbakonam,10.876251,79.27641,13,Available,Crowd Control|Security
+Police,Mirzapur,25.121356,82.600507,5,Available,Security|Patrol|Crowd Control
+Police,Aurangabad,24.638328,84.293989,11,Available,Patrol|Crowd Control|Security
+Ambulance,Panchkula,30.592212,76.959871,7,Available,ICU|Trauma
+Fire Truck,Barddhaman,23.387965,87.856079,7,Available,Fire|Rescue
+Ambulance,Haldia,21.929693,87.976735,11,Available,Trauma|ICU
+Supply Truck,Bengaluru,13.025681,77.610067,88,Available,Water
+Police,Kolhapur,16.633435,74.293151,8,Available,Crowd Control|Patrol
+Police,Purnea,25.787826,87.529703,7,Available,Crowd Control|Security
+Police,Saugor,23.852539,78.724217,5,Available,Patrol|Security|Crowd Control
+Ambulance,Puri,19.718012,85.803067,8,Available,Trauma
+Police,Shimoga,13.969533,75.495402,12,Available,Crowd Control|Patrol|Security
+Fire Truck,Hata,27.558946,77.937533,8,Available,Fire|Rescue
+Ambulance,Thanjavur,10.820315,79.111244,9,Available,ICU|Medical
+Helicopter,Dibrugarh,27.506371,95.053964,5,Available,Rescue|Survey
+Police,Kumbakonam,11.047423,79.382664,8,Available,Patrol|Security
+Police,Raipur,21.181482,81.637533,8,Available,Crowd Control|Security|Patrol
+Ambulance,Muzaffarnagar,29.445096,77.823534,10,Available,ICU|Trauma
+Fire Truck,Gurugram,28.39771,76.965539,4,Available,Fire|Rescue
+Ambulance,Jabalpur,23.061027,79.903978,7,Available,ICU|Trauma
+Ambulance,Nasik,19.956603,73.700905,7,Available,Medical|ICU
+Supply Truck,Ludhiana,30.860025,75.789408,104,Available,Food
+Ambulance,Haripur,31.487901,75.989109,9,Available,ICU
+Ambulance,Meerut,28.849822,77.677664,12,Available,Medical
+Ambulance,Dindigul,10.306734,78.071552,14,Available,Trauma|Medical
+Fire Truck,Pathankot,32.329208,75.760708,3,Available,Rescue|Fire
+Ambulance,Rajkot,22.224975,70.756664,11,Available,Medical
+Fire Truck,Bhatpara,22.935164,88.518351,9,Available,Rescue
+Ambulance,Ranchi,23.258895,85.284863,11,Available,Medical
+Ambulance,Shimla,31.06845,77.207752,3,Available,ICU|Trauma
+Police,Kohima,25.720318,93.972482,11,Available,Security|Patrol|Crowd Control
+Police,New Delhi,28.528752,77.123023,6,Available,Security|Crowd Control
+Police,Belgaum,15.859447,74.486486,5,Available,Crowd Control|Patrol
+Ambulance,Imphal,24.865016,93.990764,15,Available,ICU|Medical
+Ambulance,Sangli,16.916949,74.65105,3,Available,Medical
+Police,Bhuj,23.183771,69.739765,13,Available,Security|Patrol
+Police,Calicut,11.306895,75.698571,8,Available,Security|Crowd Control|Patrol
+Ambulance,Bikaner,28.012659,73.356892,12,Available,ICU|Trauma
+Police,Aurangabad,24.772955,84.41639,9,Available,Security
+Police,Bhopal,23.281845,77.365221,3,Available,Patrol|Crowd Control
+Ambulance,Shimoga,14.050978,75.563436,6,Available,Trauma|ICU
+Police,Itanagar,27.120114,93.649393,14,Available,Crowd Control|Patrol|Security
+Ambulance,Abohar,30.178461,74.237532,9,Available,ICU
+Fire Truck,Adilabad,19.406008,78.295549,13,Available,Rescue|Fire
+Ambulance,Porbandar,21.663348,69.71586,15,Available,ICU|Medical|Trauma
+Fire Truck,Tonk,26.21537,75.893604,6,Available,Fire
+Fire Truck,Jhansi,25.561355,78.554099,12,Available,Rescue
+Police,Bengaluru,13.018097,77.532593,15,Available,Security|Crowd Control|Patrol
+Rescue Team,Pilibhit,28.729514,79.889952,14,Available,Debris|Flood
+Ambulance,Krishnanagar,23.411567,88.398962,7,Available,ICU|Medical
+Rescue Team,Bulandshahr,28.474876,77.76135,5,Available,Mountain|Flood|Debris
+Ambulance,Nagercoil,8.055971,77.444261,5,Available,ICU
+Fire Truck,Gulbarga,17.336198,76.784667,7,Available,Fire
+Police,Panaji,15.467234,73.85559,13,Available,Security|Crowd Control
+Ambulance,Ambala,30.436896,76.827107,12,Available,ICU|Trauma
+Police,Bhuj,23.19582,69.713569,13,Available,Patrol
+Police,Puducherry,11.890643,79.804875,9,Available,Crowd Control|Patrol|Security
+Police,Sonipat,28.936565,77.096978,12,Available,Security|Patrol
+Fire Truck,Gurugram,28.407659,76.962712,4,Available,Rescue|Fire
+Ambulance,Talcher,20.832418,85.24815,4,Available,Medical
+Police,Haldia,21.952139,88.177174,7,Available,Crowd Control|Patrol
+Ambulance,Firozabad,27.096027,78.33048,6,Available,ICU|Trauma
+Rescue Team,Budaun,27.968675,79.193164,3,Available,Debris
+Fire Truck,Krishnapuram,12.837451,79.616707,7,Available,Rescue
+Ambulance,Coimbatore,11.051799,76.932293,7,Available,Medical
+Police,Salem,11.684103,78.268629,7,Available,Security
+Police,Pali,25.786296,73.20396,8,Available,Crowd Control|Security
+Ambulance,Karimnagar,18.513708,79.148138,4,Available,ICU|Trauma|Medical
+Police,Muzaffarnagar,29.499852,77.663113,3,Available,Security|Crowd Control
+Ambulance,Nagercoil,8.127508,77.316699,9,Available,Medical|ICU
+Ambulance,Shillong,25.661102,91.852859,4,Available,Trauma|Medical|ICU
+Ambulance,Shillong,25.638802,91.797887,14,Available,Trauma|Medical|ICU
+Ambulance,Jammu,32.757697,74.977316,15,Available,Trauma|Medical
+Police,Talcher,20.939487,85.147061,14,Available,Security|Patrol
+Rescue Team,Bhilwara,25.327695,74.722312,5,Available,Debris|Mountain|Flood
+Ambulance,Aurangabad,24.812331,84.292827,13,Available,Trauma|Medical|ICU
+Ambulance,Puducherry,11.923723,79.887193,3,Available,Trauma|Medical|ICU
+Ambulance,Chandigarh,30.675962,76.752632,5,Available,Medical|ICU|Trauma
+Ambulance,Bareilly,28.358141,79.407015,11,Available,ICU
+Police,Valparai,10.273128,76.998105,13,Available,Crowd Control
+Ambulance,Rajkot,22.214626,70.760824,12,Available,ICU|Medical|Trauma
+Ambulance,Shimoga,13.928263,75.570662,11,Available,ICU|Medical
+Supply Truck,Sikar,27.674627,75.024159,191,Available,Water|Food
+Ambulance,Shimoga,14.028739,75.609861,14,Available,Trauma|ICU
+Ambulance,Bhopal,23.156486,77.303294,5,Available,ICU
+Fire Truck,Vizianagaram,18.094235,83.360894,6,Available,Rescue
+Fire Truck,Moradabad,28.765949,78.742137,15,Available,Rescue
+Supply Truck,Krishnanagar,23.437532,88.604858,51,Available,Water
+Fire Truck,DehraDun,30.254539,78.067198,7,Available,Rescue
+Police,Bijapur,16.839278,75.855852,12,Available,Crowd Control|Patrol
+Supply Truck,Saugor,23.743668,78.832996,157,Available,Food|Water|Medical Kits
+Supply Truck,Patna,25.632264,85.129239,183,Available,Water|Medical Kits|Food
+Fire Truck,Shiliguri,26.762949,88.528279,10,Available,Rescue
+Supply Truck,Thanjavur,10.685756,79.231823,118,Available,Food|Water
+Fire Truck,Vizianagaram,18.199429,83.434651,11,Available,Fire
+Police,Adilabad,19.451056,78.360779,4,Available,Security|Patrol|Crowd Control
+Police,Pathankot,32.364365,75.581393,9,Available,Crowd Control
+Police,Baramula,34.21684,74.276229,8,Available,Security|Crowd Control|Patrol
+Ambulance,Ongole,15.566422,80.067562,7,Available,Medical|Trauma
+Ambulance,Aurangabad,19.925354,75.410308,4,Available,ICU|Medical
+Ambulance,Akola,20.652768,76.875898,9,Available,Medical
+Police,Jabalpur,23.274472,79.898779,8,Available,Patrol|Security
+Helicopter,Cuttack,20.460892,85.90257,5,Available,Survey|Airlift
+Police,Surat,21.281625,72.829373,6,Available,Patrol|Crowd Control|Security
+Ambulance,Kakinada,16.875076,82.314366,10,Available,Trauma|Medical|ICU
+Ambulance,Kalyan,19.254072,73.151585,14,Available,Trauma|Medical
+Police,Tharati Etawah,26.790123,79.059204,3,Available,Crowd Control|Patrol
+Police,Bhuj,23.243629,69.735673,8,Available,Crowd Control|Security
+Rescue Team,Porbandar,21.529311,69.542755,4,Available,Mountain|Debris|Flood
+Ambulance,Sangli,16.918258,74.455361,12,Available,ICU|Medical|Trauma
+Ambulance,Jabalpur,23.25446,79.94995,6,Available,Trauma
+Ambulance,Karnal,29.733766,76.942145,9,Available,ICU
+Ambulance,Jodhpur,26.257245,72.87089,14,Available,Medical|Trauma|ICU
+Police,Rohtak,28.805341,76.669238,10,Available,Patrol
+Police,Akola,20.646962,77.111981,3,Available,Patrol|Crowd Control|Security
+Fire Truck,Ambala,30.424767,76.680733,8,Available,Rescue
+Fire Truck,Nalgonda,17.030585,79.138112,7,Available,Fire|Rescue
+Police,Bulandshahr,28.306083,77.954883,14,Available,Security
+Police,Alappuzha,9.424943,76.348234,6,Available,Patrol
+Ambulance,Kumbakonam,11.008786,79.289161,3,Available,ICU|Medical
+Ambulance,Shiliguri,26.786998,88.372945,5,Available,Trauma|Medical|ICU
+Police,Purnea,25.722702,87.596678,9,Available,Patrol|Crowd Control|Security
+Police,Tonk,26.163442,75.663057,7,Available,Security
+Police,Ongole,15.477152,80.052331,8,Available,Crowd Control
+Police,Akola,20.778992,76.910474,4,Available,Crowd Control

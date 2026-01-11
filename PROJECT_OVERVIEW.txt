@@ -1,0 +1,42 @@
+AetherX Disaster Management System - Comprehensive Project Overview
+
+1. PROJECT MISSION
+   To revolutionize disaster response in India by building an intelligent, real-time command, simulation, and control center. The system creates high-fidelity disaster scenarios (Floods, Earthquakes, Cyclones) and assists operators in making data-driven resource allocation decisions to save lives.
+
+2. SYSTEM ARCHITECTURE
+   A. Backend Core (Python 3.10+ / FastAPI)
+      - **API Layer**: Exposes RESTful endpoints for simulation control (`/api/v1/resources`), monitoring (`/api/v1/monitor`), and AI prediction.
+      - **Simulation Engine**: `sim_resources.py` manages the lifecycle of 1,000+ dynamic entities (Ambulances, Police, Fire Trucks, NDRF).
+      - **Allocation Logic**: `resource_allocation.py` uses heuristic algorithms to match resources to zones based on proximity (Haversine), type compatibility, and severity.
+      - **Data Integration**:
+          - `Indian Cities Database.csv`: Source of truth for 213+ Indian city locations.
+          - `population.csv`: Provides real census data for accurate impact assessment.
+          - `resources_10k.csv`: A generated dataset of 1,000 unique assets distributed nationwide.
+
+   B. Frontend Interface (React 18 / Vite / Tailwind CSS)
+      - **State Management**: React Hooks (`useState`, `useEffect`) manage real-time updates from the backend.
+      - **Mapping Engine**: `react-leaflet` renders interactive maps with custom marker layers for Disasters, Resources, and Safe Areas.
+      - **Visualization**: `lucide-react` icons and responsive Tailwind layouts provide clarity in high-stress operational views.
+      - **Dashboard**: Aggregates live feeds (USGS Earthquakes, NASA FIRMS) and system status.
+
+3. KEY FEATURES
+   - **Pan-India Coverage**: Simulation covers the entire geography of India, generating incidents near Tier-1, Tier-2, and Tier-3 cities.
+   - **Proximity Intelligence**: The "Ops Center" map automatically filters out irrelevant resources, showing only those within a 100km radius of an active disaster.
+   - **Real-Time Distance Calculation**: Distances between assets and targets are calculated on-the-fly to aid dispatch decisions (e.g., "Ambulance - 4.2km away").
+   - **Scalable Resource Management**: Capable of tracking thousands of units with distinct attributes (Type, Capacity, Speed, Specialization).
+   - **Live Alert Feeds**: Integrates external data sources to mix real-world alerts with simulated training scenarios.
+
+4. USER WORKFLOWS
+   - **Simulation Mode**: A sandbox for training. Operators can trigger random disaster scenarios to test system resilience and response protocols.
+   - **Operation Mode**: The tactical view. Incident Commanders monitor the map, click on red "Disaster Zones" to assess severity/population, view nearby available resources, and issue dispatch commands.
+   - **Monitoring Mode**: A strategic view for situational awareness, tracking global and local feeds.
+
+5. TECH STACK
+   - **Backend**: FastAPI, Uvicorn, Pydantic, Pandas/CSV, HTTPX
+   - **Frontend**: React, TypeScript, Vite, Tailwind CSS, Leaflet, Lucide Icons
+   - **Data**: Custom CSV Datasets (Cities, Population, Synthetic Resources)
+
+6. RECENT UPDATES
+   - Integrated full Indian Cities database (200+ cities).
+   - Optimized resource dataset to 1,000 unique entries for performance.
+   - Implemented "Smart Visibility" to declutter operational maps.
