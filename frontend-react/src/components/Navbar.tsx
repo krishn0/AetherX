@@ -22,6 +22,8 @@ const Navbar: React.FC = () => {
 
     const navLinks = [
         { name: 'Mission Control', path: '/dashboard' },
+        { name: 'Simulation', path: '/simulation' },
+        { name: 'Help Desk', path: '/help-desk' },
     ];
 
     return (
