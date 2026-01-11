@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     MONGO_URI: str = "mongodb+srv://krishnashinde:krishna%409898@cluster1.cf39wey.mongodb.net/aetherx?appName=Cluster1"
     
     # CORS - Update these origins for production
-    BACKEND_CORS_ORIGINS: List[str] = ["http://localhost:5173", "http://localhost:5174", "http://localhost:3000"]
+    BACKEND_CORS_ORIGINS: List[str] = ["http://localhost:5173", "http://localhost:5174", "http://localhost:3000", "https://aetherx-frontend-fixed.vercel.app"]
 
     # AI
     gemini_api_key: str = ""
