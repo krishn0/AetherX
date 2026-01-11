@@ -134,7 +134,12 @@ const OperationOffice: React.FC = () => {
                         </div>
                     </div>
                     <h2 className="text-2xl font-bold text-center text-white mb-2">Restricted Access</h2>
-                    <p className="text-gray-400 text-center text-sm mb-8">Enter authorized credentials to access NDEM Ops Center.</p>
+                    <p className="text-gray-400 text-center text-sm mb-4">Enter authorized credentials to access NDEM Ops Center.</p>
+                    <div className="mb-8 text-center bg-blue-900/10 border border-blue-500/20 rounded-lg p-2">
+                        <p className="text-xs text-gray-400 font-mono">
+                            Testing Credentials: <span className="text-blue-400 font-bold tracking-wider">admin123</span>
+                        </p>
+                    </div>
 
                     <input
                         type="password"
@@ -149,11 +154,6 @@ const OperationOffice: React.FC = () => {
                     <button type="button" onClick={() => navigate('/')} className="w-full mt-3 text-gray-500 py-2 text-sm hover:text-white transition">
                         Cancel
                     </button>
-                    <div className="mt-4 text-center">
-                        <p className="text-xs text-gray-500 font-mono">
-                            Testing Credentials: <span className="text-blue-400 font-bold">admin123</span>
-                        </p>
-                    </div>
                 </form>
             </div>
         );
