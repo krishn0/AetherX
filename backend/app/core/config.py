@@ -9,7 +9,7 @@ class Settings(BaseSettings):
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     
     # Database
-    DATABASE_URL: str = "postgresql+asyncpg://postgres:postgres@localhost:5432/aetherx"
+    MONGO_URI: str = "mongodb+srv://krishnashinde:krishna%409898@cluster1.cf39wey.mongodb.net/aetherx?appName=Cluster1"
     
     # CORS - Update these origins for production
     BACKEND_CORS_ORIGINS: List[str] = ["http://localhost:5173", "http://localhost:5174", "http://localhost:3000"]

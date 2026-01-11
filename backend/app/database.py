@@ -1,10 +1,10 @@
 import motor.motor_asyncio
 import os
 
-# Using localhost for development as requested
-MONGO_DETAILS = "mongodb://localhost:27017"
+from app.core.config import settings
 
-client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
+# Using settings for connection
+client = motor.motor_asyncio.AsyncIOMotorClient(settings.MONGO_URI)
 db = client.aetherx_db
 
 # Collections

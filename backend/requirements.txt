@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-sqlalchemy
-asyncpg
+motor
+dnspython
 pydantic
 pydantic-settings
 python-jose[cryptography]
